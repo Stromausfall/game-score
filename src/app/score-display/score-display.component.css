@@ -1,0 +1,22 @@
+.player {
+
+}
+
+.points {
+    font-weight: bold;
+}
+
+ul {
+    height:150px;
+    overflow:hidden;
+    list-style: none;
+    overflow-y:scroll;
+}
+
+.active {
+    background-color: lightgoldenrodyellow;
+}
+
+.inactive {
+    background-color: darkgray;
+}

@@ -1,0 +1,16 @@
+.score-display {
+    width:50%;
+}
+
+.score-display-content {
+    overflow:hidden;
+}
+
+.number-input {
+    width:100%;
+}
+
+table {
+    width:100%;
+    height:100%;
+}

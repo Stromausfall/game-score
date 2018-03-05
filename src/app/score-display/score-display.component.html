@@ -1,0 +1,11 @@
+<div class="{{scoreDisplayStyle}}">
+  <span class="player">Player {{id}}:</span>
+
+  <ul id="scoreHolderForPlayer{{id}}">
+    <li *ngFor="let points of allPoints">
+          {{points}}
+      </li>
+  </ul>
+
+Total: <span class="totalPoints">{{totalPoints}}</span>
+</div>

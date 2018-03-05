@@ -1,0 +1,27 @@
+  .submitButton {
+    width:100%;
+    background-color: lightblue;
+  }
+  
+  .modifyPositiveButton {
+    width:100%;
+    background-color: lightgreen;
+  }
+  
+  .modifyNegativeButton {
+    width:100%;
+    background-color: lightcoral;
+  }
+
+  .modifyTableColumn {
+    width:33%;
+  }
+
+  .submitTableColumn {
+    background-color: lightgray;
+  }
+
+  table {
+    width:100%;
+    background-color: lightgray;
+  }
