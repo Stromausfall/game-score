@@ -14,9 +14,13 @@ ul {
 }
 
 .active {
+    font-weight: bold;
     background-color: lightgoldenrodyellow;
+    font-family: 'Patua One', cursive;
 }
 
 .inactive {
+    font-weight: bold;
     background-color: darkgray;
+    font-family: 'Patua One', cursive;
 }

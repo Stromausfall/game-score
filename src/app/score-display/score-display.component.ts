@@ -7,7 +7,7 @@ import { PlayerService } from '../player.service';
   styleUrls: ['./score-display.component.css']
 })
 export class ScoreDisplayComponent implements OnInit {
-  allPoints:number[] = [1, 2, 3, 4, 5, 6, 2, 3, 4, 5, 6, 2, 3, 4, 5, 6, 2, 3, 4, 5, 6, 2, 3, 4, 5, 6];
+  allPoints:number[] = [];
   id:string = 'unknown';
   scoreDisplayStyle = 'inactive';
   totalPoints = 0;

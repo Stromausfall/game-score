@@ -1,16 +1,22 @@
   .submitButton {
     width:100%;
+    font-weight: bold;
     background-color: lightblue;
+    font-family: 'Patua One', cursive;
   }
   
   .modifyPositiveButton {
     width:100%;
+    font-weight: bold;
     background-color: lightgreen;
+    font-family: 'Patua One', cursive;
   }
   
   .modifyNegativeButton {
     width:100%;
+    font-weight: bold;
     background-color: lightcoral;
+    font-family: 'Patua One', cursive;
   }
 
   .modifyTableColumn {
